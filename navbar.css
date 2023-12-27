@@ -1,0 +1,51 @@
+nav{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    margin: 0px;
+    gap: 50px;
+    background-color: rgb(93, 245, 93);
+    border: 2px solid black;
+    align-items: center;
+
+    
+
+
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 25px;
+
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid red;
+    background-color: blue;
+}
+#left{
+    padding: 20px;
+    border: 2px solid red;
+    
+}
+#right { 
+    padding: 20px;
+    display: flex;
+    gap: 50px;
+   
+}
+#cent{
+    display: flex;
+    padding: 20px;
+    gap: 20px;
+
+}
+#n{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    background-color: blueviolet;
+    border: 2px dotted blue;
+    align-items: center;
+}
